@@ -1,3 +1,3 @@
 # PCBuilder
 
-Greedy Knapsack Implementation is sampe pc parts.
+Greedy Knapsack Implementation is sample pc parts.
