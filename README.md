@@ -1,3 +1,3 @@
 # PCBuilder
 
-Greedy Knapsack Implementation in sample pc parts.
+Greedy Knapsack Implementation for buying sample pc parts based on a given budget.
